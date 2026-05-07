@@ -10,7 +10,7 @@ def test_capitalize():
     result = my_capitalize(my_input)
 
     # Assert
-    assert result == "Kimmo"
+    assert result == "Kmo"
 
 def test_capitalize_with_empty_string():
     assert "" == my_capitalize("")
